@@ -7,9 +7,11 @@
 ### Categories
 
 * [JavaScript](#JavaScript)
+* [Web](#Web)
 
 
 ---
 
-### JavaScript
+### Web
 
+- [웹사이트 best practices](Web/web-best-practices.md)
