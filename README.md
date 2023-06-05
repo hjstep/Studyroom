@@ -15,4 +15,4 @@
 ### Web
 
 - [웹사이트 best practices](Web/web-best-practices.md)
-- [브라우저 렌더링 과정](Web/browser-rendering.md)
+- [브라우저 렌더링 과정, 리렌더링](Web/browser-rendering.md)
