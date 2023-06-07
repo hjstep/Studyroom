@@ -16,6 +16,7 @@
 ### JavaScript
 
 - [01.프로그래밍이란](JavaScript/01-programming.md)
+- [02. 자바스크립트와 ECMAScript](JavaScript/02-자바스크립트&ECMAScript.md)
 
 ### Web
 
