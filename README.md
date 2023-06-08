@@ -15,8 +15,10 @@
 
 ### JavaScript
 
-- [01.프로그래밍이란](JavaScript/01-programming.md)
-- [02. 자바스크립트와 ECMAScript](JavaScript/02-자바스크립트&ECMAScript.md)
+- [프로그래밍이란](JavaScript/프로그래밍이란.md)
+- [자바스크립트와 ECMAScript](JavaScript/자바스크립트&ECMAScript.md)
+- [웹브라우저 내부의 주요 5가지 엔진](JavaScript/웹브라우저-내부-주요5가지엔진.md)
+- [JIT 컴파일 방식](JavaScript/JIT컴파일.md)
 
 ### Web
 
