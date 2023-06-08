@@ -1,4 +1,4 @@
-# 02. 자바스크립트와 ECMAScript
+# 자바스크립트와 ECMAScript
 
 ## ECMAScript
 
