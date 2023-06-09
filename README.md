@@ -15,7 +15,7 @@
 
 ### JavaScript
 
-- [프로그래밍이란](JavaScript/프로그래밍이란.md)
+- [프로그래밍이란(저급언어, 고급언어)](JavaScript/프로그래밍이란(저급언어와고급언어).md)
 - [자바스크립트와 ECMAScript](JavaScript/자바스크립트&ECMAScript.md)
 - [웹브라우저 내부의 주요 5가지 엔진](JavaScript/웹브라우저-내부-주요5가지엔진.md)
 - [JIT 컴파일 방식](JavaScript/JIT컴파일.md)
