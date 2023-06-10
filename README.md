@@ -24,6 +24,7 @@
 - [웹사이트 best practices](Web/web-best-practices.md)
 - [브라우저 렌더링 과정, 리렌더링](Web/browser-rendering.md)
 - [웹브라우저 내부의 주요 5가지 엔진](Web/웹브라우저-내부-주요5가지엔진.md)
+- [서버 사이드와 클라이언트 사이드 코드](Web/서버사이드-클라이언트사이드.md)
 
 ### 컴퓨터구조
 
