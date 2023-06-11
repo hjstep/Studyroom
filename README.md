@@ -30,3 +30,4 @@
 ### 컴퓨터구조
 
 - [CPU 성능 향상 기법](CS/computer-structure/05-CPU성능향상기법.md)
+- [메모리와 캐시 메모리](CS/computer-structure/06-memory&cache-memory.md)
