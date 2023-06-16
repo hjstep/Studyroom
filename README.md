@@ -9,7 +9,8 @@
 * [JavaScript](#JavaScript)
 * [Web](#Web)
 * [컴퓨터구조](#컴퓨터구조)
-
+* [알고리즘](#알고리즘)
+* [자료구조](#자료구조)
 
 ---
 
@@ -38,3 +39,7 @@
 ### 알고리즘
 
 - [그리디 알고리즘](Algorithm/01-greedy.md)
+
+### 자료구조
+
+- [배열(Array)](DataStructure/01-Array.md)
