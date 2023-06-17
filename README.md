@@ -16,6 +16,7 @@
 
 ### JavaScript
 
+- [제너레이터](JavaScript/generator.md)
 - [BigInt](JavaScript/BigInt.md)
 - [이터러블과 이터레이터](JavaScript/이터러블&이터레이터.md)
 - [JIT 컴파일 방식](JavaScript/JIT컴파일.md)
