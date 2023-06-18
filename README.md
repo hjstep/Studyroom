@@ -16,6 +16,7 @@
 
 ### JavaScript
 
+- [함수형프로그래밍으로 구현한 map, filter, reduce](JavaScript/map,filter,reduce.md)
 - [제너레이터](JavaScript/generator.md)
 - [BigInt](JavaScript/BigInt.md)
 - [이터러블과 이터레이터](JavaScript/이터러블&이터레이터.md)
