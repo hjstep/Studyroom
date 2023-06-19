@@ -16,6 +16,7 @@
 
 ### JavaScript
 
+- [operator](JavaScript/operator.md)
 - [함수형프로그래밍으로 구현한 map, filter, reduce](JavaScript/map,filter,reduce.md)
 - [제너레이터](JavaScript/generator.md)
 - [BigInt](JavaScript/BigInt.md)
