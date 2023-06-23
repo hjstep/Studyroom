@@ -16,6 +16,7 @@
 
 ### JavaScript
 
+- [JavaScript vs TypeScript](JavaScript/JavaScript&TypeScript.md)
 - [타입 변환](JavaScript/타입변환.md)
 - [control flow statement](JavaScript/control-flow-statement.md)
 - [operator](JavaScript/operator.md)
