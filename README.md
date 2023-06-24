@@ -16,7 +16,7 @@
 
 ### JavaScript
 
-- [원시값 vs 객체](JavaScript/원시값과 객체의 비교.md)
+- [원시값 vs 객체](JavaScript/원시값&객체.md)
 - [JavaScript vs TypeScript](JavaScript/JavaScript&TypeScript.md)
 - [타입 변환](JavaScript/타입변환.md)
 - [control flow statement](JavaScript/control-flow-statement.md)
