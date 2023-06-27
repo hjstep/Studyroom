@@ -16,6 +16,7 @@
 
 ### JavaScript
 
+- [옵저버패턴](JavaScript/옵저버패턴.md)
 - [function 정리](JavaScript/function.md)
 - [원시값 vs 객체](JavaScript/원시값&객체.md)
 - [JavaScript vs TypeScript](JavaScript/JavaScript&TypeScript.md)
