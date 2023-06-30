@@ -7,6 +7,70 @@
 - 인접 행렬(Adjacency Matrix) 방식: 2차원 배열에 각 노드가 연결된 형태를 기록하는 방식이다.
 - 인접 리스트: 연결 리스트 자료구조를 이용해 구현한다. 2차원 리스트를 이용하면 된다.
 
+## dfs 구현
+```javascript
+function dfs(graph, v, visited) {
+    visited[v] = true;
+    console.log(v);
+
+    for (const cur of graph[v]) {
+        if (!visited[cur]) {
+            dfs(graph, cur, visited);
+        }
+    }
+}
+
+const graph = [
+    [],
+    [2,3,8],
+    [1,7],
+    [1,4,5],
+    [3,5],
+    [3,4],
+    [7],
+    [2,6,8],
+    [1,7]
+];
+const visited = Array.from({length:graph.length}, () => false);
+
+dfs(graph, 1, visited);
+```
+
+## bfs 구현
+```javascript
+function bfs(graph, start, visited) {
+    const queue = [start];
+    visited[start] = true;
+
+    while (queue.length) {
+        const v = queue.shift();
+        console.log(v)
+        for (const cur of graph[v]) {
+            if (!visited[cur]) {
+                queue.push(cur);
+                visited[cur] = true;
+            }
+        }
+    }
+}
+
+const graph = [
+    [],
+    [2,3,8],
+    [1,7],
+    [1,4,5],
+    [3,5],
+    [3,4],
+    [7],
+    [2,6,8],
+    [1,7]
+]
+
+const visited = Array.from({length:graph.length}, () => false);
+
+bfs(graph, 1, visited);
+```
+
 ## 실전문제 - 음료수 얼려 먹기
 ```javascript
 function icecream(n,m,graph) {
