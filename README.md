@@ -34,6 +34,7 @@
 
 ### Web
 
+- [URL](Web/URL.md)
 - [전자상거래 비즈니스 모델](Web/e-commerce-business-models.md)
 - [웹사이트 best practices](Web/web-best-practices.md)
 - [브라우저 렌더링 과정, 리렌더링](Web/browser-rendering.md)
