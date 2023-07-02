@@ -16,6 +16,7 @@
 
 ### JavaScript
 
+- [프로퍼티어트리뷰트와 프로퍼티디스크립터객체 정리](JavaScript/프로퍼티어트리뷰트&프로퍼티디스크립터객체.md)
 - [scope 정리](JavaScript/scope.md)
 - [옵저버패턴](JavaScript/옵저버패턴.md)
 - [function 정리](JavaScript/function.md)
