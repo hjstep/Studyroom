@@ -16,6 +16,7 @@
 
 ### JavaScript
 
+- [프로퍼티 정의와 객체 변경 방지하는 법 정리](JavaScript/프로퍼티정의&객체변경방지.md)
 - [프로퍼티어트리뷰트와 프로퍼티디스크립터객체 정리](JavaScript/프로퍼티어트리뷰트&프로퍼티디스크립터객체.md)
 - [scope 정리](JavaScript/scope.md)
 - [옵저버패턴](JavaScript/옵저버패턴.md)
