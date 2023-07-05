@@ -38,6 +38,7 @@
 
 ### Typescript
 
+- [연산자를 사용한 타입 정의](Typescript/연산자를-사용한-타입정의.md)
 - [인터페이스](Typescript/interface.md)
 
 ### Web
