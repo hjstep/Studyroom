@@ -7,6 +7,7 @@
 ### Categories
 
 * [JavaScript](#JavaScript)
+* [Typescript](#Typescript)
 * [Web](#Web)
 * [컴퓨터구조](#컴퓨터구조)
 * [알고리즘](#알고리즘)
@@ -34,6 +35,10 @@
 - [JIT 컴파일 방식](JavaScript/JIT컴파일.md)
 - [자바스크립트와 ECMAScript](JavaScript/자바스크립트&ECMAScript.md)
 - [프로그래밍이란(저급언어, 고급언어)](JavaScript/프로그래밍이란(저급언어와고급언어).md)
+
+### Typescript
+
+- [인터페이스](Typescript/interface.md)
 
 ### Web
 
