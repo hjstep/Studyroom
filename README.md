@@ -17,6 +17,7 @@
 
 ### JavaScript
 
+- [polyfill](JavaScript/polyfill.md)
 - [go-pipe-curry](JavaScript/go-pipe-curry.md)
 - [webpack 모듈 번들링 시점](JavaScript/webpack-bundling-time.md)
 - [프로퍼티 정의와 객체 변경 방지하는 법 정리](JavaScript/프로퍼티정의&객체변경방지.md)
