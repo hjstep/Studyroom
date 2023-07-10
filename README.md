@@ -17,6 +17,7 @@
 
 ### JavaScript
 
+- [생성자함수 정리](JavaScript/constructor.md)
 - [이터러블 중심 프로그래밍](JavaScript/이터러블-중심-프로그래밍.md)
 - [polyfill](JavaScript/polyfill.md)
 - [go-pipe-curry](JavaScript/go-pipe-curry.md)
