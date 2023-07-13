@@ -13,6 +13,23 @@
   - `O(N^2)` 
   - 선택 정렬은 데이터의 개수가 많아지면 정렬 속도가 급격히 느려진다.
 
+```javascript
+var array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8];
+
+for (var i = 0; i < array.length; i++) {
+    var min_index = i;
+    for (var j = i + 1; j < array.length; j++) {
+        if (array[min_index] > array[j]) {
+            min_index = j;
+        }
+    }
+    [array[i], array[min_index]] = [array[min_index], array[i]];
+}
+
+console.log(array);
+
+```
+
 ## 삽입 정렬(Insertion Sort)
 > 1) "데이터를 하나씩 확인하며, 각 데이터를 적절한 위치에 삽입"<br/>
 > 2) 데이터의 왼쪽에 있는 데이터들은 이미 정렬이 된 상태이므로 자기보다 작은 데이터를 만났다면 더이상 데이터를 살펴볼 필요없이 그자리에 삽입되면 되는 것이다.
@@ -27,6 +44,23 @@
   - `O(N^2)`
   - 데이터가 거의 정렬되어 있는 상태라면 매우 빠르게 동작한다. 보통은 삽입정렬이 비효율적이나, <br/>
   정렬이 되어있는 상황에서는 퀵 정렬 등 다른 정렬 알고리즘을 이용하는 것보다 삽입 정렬을 이용하는 것이 정답 확률을 높일 수 있다.
+
+```javascript
+var array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8];
+
+for (var i = 1; i < array.length; i++) {
+    for (var j = i; j > 0; j--) {
+        if (array[j] < array[j - 1]) {
+            [array[j], array[j - 1]] = [array[j - 1], array[j]];
+        } else {
+            break;
+        }
+    }
+}
+
+console.log(array);
+
+```
 
 ## 퀵 정렬
 > 1) 가장 많이 사용되는 알고리즘, '빠른 정렬 알고리즘'<br/>
