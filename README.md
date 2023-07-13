@@ -66,6 +66,7 @@
 
 ### 알고리즘
 
+- [정렬 알고리즘](Algorithm/04-sorting.md)
 - [DFS & BFS 알고리즘](Algorithm/03-dfs&bfs.md)
 - [구현 알고리즘](Algorithm/02-Implementation.md)
 - [그리디 알고리즘](Algorithm/01-greedy.md)
