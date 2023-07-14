@@ -178,3 +178,36 @@ console.log(result.join(' '));
    1. 선택 정렬, 삽입 정렬, 퀵 정렬 등의 원리를 알고 있어야 문제를 풀 수 있다.
 3. <b>더 빠른 정렬이 필요한 문제</b>
    1. 퀵 정렬 기반의 정렬 기법으로는 풀 수 없으며 계수 정렬 등의 다른 정렬 알고리즘을 이용하거나 문제에서 기존에 알려진 알고리즘의 구조적인 개선을 거쳐야 풀 수 있다.
+
+---
+
+# 이코테 책 문제
+
+## [실전문제] 위에서 아래로
+
+```javascript
+function descSort(n, ...rest) {
+  return rest.sort((a, b) => b - a).join(' ');
+}
+```
+
+## [실전문제] 성적이 낮은 순서로 학생 출력하기
+
+```javascript
+function printLowScore(n, ...rest) {
+    const studentScore = rest.map(item => ({
+        name: item.split(' ')[0],
+        score: item.split(' ')[1]
+    }));
+
+    return studentScore.sort((a,b) => {return a.score-b.score}).map(item => item.name).join(' ');
+}
+
+printLowScore(2, '홍길동 95', '이순신 77')
+```
+
+## [실전문제] 두 배열의 원소 교체
+
+```javascript
+
+```
