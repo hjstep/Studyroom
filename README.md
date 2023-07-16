@@ -17,6 +17,7 @@
 
 ### JavaScript
 
+- [join함수-find함수](JavaScript/join-find.md)
 - [함수객체의 내부슬롯과 내부메서드](JavaScript/함수객체-내부슬롯-내부메서드.md)
 - [생성자함수 정리](JavaScript/constructor.md)
 - [이터러블 중심 프로그래밍](JavaScript/이터러블-중심-프로그래밍.md)
