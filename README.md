@@ -17,6 +17,7 @@
 
 ### JavaScript
 
+- [flatten함수-flatMap함수](JavaScript/flatten-flatMap.md)
 - [filter함수-map함수](JavaScript/filter-map.md)
 - [join함수-find함수](JavaScript/join-find.md)
 - [함수객체의 내부슬롯과 내부메서드](JavaScript/함수객체-내부슬롯-내부메서드.md)
