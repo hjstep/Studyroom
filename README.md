@@ -17,6 +17,7 @@
 
 ### JavaScript
 
+- [프로토타입 정리 -1](JavaScript/)
 - [flatten함수-flatMap함수](JavaScript/flatten-flatMap.md)
 - [filter함수-map함수](JavaScript/filter-map.md)
 - [join함수-find함수](JavaScript/join-find.md)
