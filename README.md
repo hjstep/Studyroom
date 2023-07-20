@@ -17,6 +17,7 @@
 
 ### JavaScript
 
+- [프로토타입 교체](JavaScript/prototype-교체.md)
 - [프로토타입 체인, 오버라이딩, 프로퍼티섀도잉](JavaScript/prototype-chain.md)
 - [프로토타입 정리](JavaScript/prototype.md)
 - [flatten함수-flatMap함수](JavaScript/flatten-flatMap.md)
