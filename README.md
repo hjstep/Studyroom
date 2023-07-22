@@ -17,6 +17,7 @@
 
 ### JavaScript
 
+- [constructor 프로퍼티의 용도](JavaScript/constructor프로퍼티용도.md)
 - [프로토타입 직접상속, 정적프로퍼티, instanceof](JavaScript/prototype-직접상속&정적프로퍼티&instanceof.md)
 - [프로토타입 교체](JavaScript/prototype-교체.md)
 - [프로토타입 체인, 오버라이딩, 프로퍼티섀도잉](JavaScript/prototype-chain.md)
