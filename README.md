@@ -10,6 +10,7 @@
 * [Typescript](#Typescript)
 * [Web](#Web)
 * [컴퓨터구조](#컴퓨터구조)
+* [운영체제](#운영체제)
 * [알고리즘](#알고리즘)
 * [자료구조](#자료구조)
 
@@ -72,6 +73,10 @@
 - [메모리와 캐시 메모리](CS/computer-structure/06-memory&cache-memory.md)
 - [보조기억장치](CS/computer-structure/07-보조기억장치.md)
 - [입출력장치](CS/computer-structure/08-입출력장치.md)
+
+### 운영체제
+
+- [운영체제란?, 커널](CS/operating-system/09-운영체제란.md)
 
 ### 알고리즘
 
