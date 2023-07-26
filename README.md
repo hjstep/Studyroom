@@ -18,6 +18,7 @@
 
 ### JavaScript
 
+- [값으로 다루는 Promise](JavaScript/값으로-다루는-Promise.md)
 - [callback과 Promise](JavaScript/callback과%20Promise.md)
 - [constructor 프로퍼티의 용도](JavaScript/constructor프로퍼티용도.md)
 - [프로토타입 직접상속, 정적프로퍼티, instanceof](JavaScript/prototype-직접상속&정적프로퍼티&instanceof.md)
