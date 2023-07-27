@@ -18,6 +18,7 @@
 
 ### JavaScript
 
+- [모나드와 합성 관점에서의 Promise](JavaScript/모나드와-Promise.md)
 - [값으로 다루는 Promise](JavaScript/값으로-다루는-Promise.md)
 - [callback과 Promise](JavaScript/callback과%20Promise.md)
 - [constructor 프로퍼티의 용도](JavaScript/constructor프로퍼티용도.md)
