@@ -92,3 +92,4 @@
 ### 자료구조
 
 - [배열(Array)](DataStructure/01-Array.md)
+- [스택(Stack)](DataStructure/02-Stack.md)
