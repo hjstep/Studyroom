@@ -18,6 +18,7 @@
 
 ### JavaScript
 
+- [go,pipe,reduce에서 비동기 제어](JavaScript/go,pipe,reduce에서-비동기제어.md)
 - [Kleisli Composition 관점에서의 Promise](JavaScript/kleisli-composition관점-Promise.md)
 - [모나드와 합성 관점에서의 Promise](JavaScript/모나드와-Promise.md)
 - [값으로 다루는 Promise](JavaScript/값으로-다루는-Promise.md)
