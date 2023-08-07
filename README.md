@@ -73,7 +73,7 @@
 - [모바일 애플리케이션의 종류](Web/모바일-애플리케이션-종류.md)
 
 ### 컴퓨터구조
-
+- [데이터](CS/computer-structure/02-데이터.md)
 - [CPU 성능 향상 기법](CS/computer-structure/05-CPU성능향상기법.md)
 - [메모리와 캐시 메모리](CS/computer-structure/06-memory&cache-memory.md)
 - [보조기억장치](CS/computer-structure/07-보조기억장치.md)
