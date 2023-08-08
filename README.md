@@ -100,3 +100,4 @@
 - [힙(Heap)](DataStructure/06-Heap.md)
 - [시간복잡도](DataStructure/07-시간복잡도.md)
 - [해쉬테이블](DataStructure/08-해쉬테이블.md)
+- [공간복잡도](DataStructure/09-공간복잡도.md)
