@@ -91,6 +91,7 @@
 - [그리디 알고리즘](Algorithm/01-greedy.md)
 - [그래프](Algorithm/graph.md)
 - [재귀용법](Algorithm/recursive-call.md)
+- [동적계획법](Algorithm/dynamic-programming.md)
 
 ### 자료구조
 
