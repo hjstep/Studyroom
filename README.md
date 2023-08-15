@@ -92,6 +92,7 @@
 - [그래프](Algorithm/graph.md)
 - [재귀용법](Algorithm/recursive-call.md)
 - [동적계획법과 분할정복](Algorithm/동적계획법-분할정복.md)
+- [순차탐색](Algorithm/순차탐색.md)
 
 ### 자료구조
 
