@@ -83,6 +83,7 @@
 
 - [운영체제란?, 커널](CS/operating-system/09-운영체제란.md)
 - [프로세스와 스레드](CS/operating-system/10-프로세스와스레드.md)
+- [CPU 스케줄링 방식](CS/operating-system/11-CPU스케줄링방식.md)
 
 ### 알고리즘
 
