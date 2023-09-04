@@ -97,6 +97,7 @@
 - [동적계획법과 분할정복](Algorithm/동적계획법-분할정복.md)
 - [순차탐색](Algorithm/순차탐색.md)
 - [링크드리스트](Algorithm/LinkedList.md)
+- [이진탐색](Algorithm/05-binarySearch.md)
 
 ### 자료구조
 
