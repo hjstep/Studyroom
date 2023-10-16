@@ -66,6 +66,7 @@
 ### 바닐라자바스크립트
 
 - [1장_자바스크립트](Books/vanilaJS/CH01.md)
+- [3장_자바스크립트 기본 문법](Books/vanilaJS/CH03.md)
 
 ### Web
 
