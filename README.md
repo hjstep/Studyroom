@@ -64,6 +64,7 @@
 - [인터페이스](Typescript/interface.md)
 
 ### 바닐라자바스크립트
+> 책 공부한 후 정리하고 싶은 내용 작성
 
 - [1장_자바스크립트](Books/vanilaJS/CH01.md)
 - [3장_자바스크립트 기본 문법](Books/vanilaJS/CH03.md)
