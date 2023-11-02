@@ -72,6 +72,8 @@
 - [4장_자바스크립트 내장 객체](Books/vanilaJS//CH04.md)
 - [5장_자바스크립트 고급 문법](Books/vanilaJS/CH05.md)
 - [6장_REST API](Books/vanilaJS/CH06.md)
+- [7장_Mock 서버](Books/vanilaJS/CH07.md)
+- [8장_자바스크립트 HTML DOM](Books/vanilaJS/CH08.md)
 ### Web
 
 - [URL](Web/URL.md)
