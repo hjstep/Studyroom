@@ -74,6 +74,8 @@
 - [6장_REST API](Books/vanilaJS/CH06.md)
 - [7장_Mock 서버](Books/vanilaJS/CH07.md)
 - [8장_자바스크립트 HTML DOM](Books/vanilaJS/CH08.md)
+- [9장_자바스크립트의 메모리 관리](Books/vanilaJS/CH09.md)
+
 ### Web
 
 - [URL](Web/URL.md)
