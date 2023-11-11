@@ -75,7 +75,8 @@
 - [7장_Mock 서버](Books/vanilaJS/CH07.md)
 - [8장_자바스크립트 HTML DOM](Books/vanilaJS/CH08.md)
 - [9장_자바스크립트의 메모리 관리](Books/vanilaJS/CH09.md)
-
+- [10장_자바스크립트 주요 Web APIs](Books/vanilaJS/CH10.md)
+- [11장_브라우저의 렌더링 과정](Books/vanilaJS/CH11.md)
 ### Web
 
 - [URL](Web/URL.md)
