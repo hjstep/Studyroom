@@ -57,6 +57,7 @@
 - [자바스크립트와 ECMAScript](JavaScript/자바스크립트&ECMAScript.md)
 - [프로그래밍이란(저급언어, 고급언어)](JavaScript/프로그래밍이란(저급언어와고급언어).md)
 - [객체 변경 방지](JavaScript/객체변경방지.md)
+- [렉시컬스코프](JavaScript/렉시컬스코프.md)
 
 ### Typescript
 
