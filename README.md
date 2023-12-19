@@ -58,6 +58,7 @@
 - [프로그래밍이란(저급언어, 고급언어)](JavaScript/프로그래밍이란(저급언어와고급언어).md)
 - [객체 변경 방지](JavaScript/객체변경방지.md)
 - [렉시컬스코프](JavaScript/렉시컬스코프.md)
+- [추상 연산 OrdinaryObjectCreate](JavaScript/OrdinaryObjectCreate.md)
 
 ### Typescript
 
