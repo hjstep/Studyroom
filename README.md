@@ -59,6 +59,7 @@
 - [객체 변경 방지](JavaScript/객체변경방지.md)
 - [렉시컬스코프](JavaScript/렉시컬스코프.md)
 - [추상 연산 OrdinaryObjectCreate](JavaScript/OrdinaryObjectCreate.md)
+- [BLOCK Lexical Environment](JavaSCript/block-lexical-environment.md)
 
 ### Typescript
 
