@@ -61,6 +61,7 @@
 - [추상 연산 OrdinaryObjectCreate](JavaScript/OrdinaryObjectCreate.md)
 - [BLOCK Lexical Environment](JavaScript/block-lexical-environment.md)
 - [Symbol.species](JavaScript/Symbol.species.md)
+- [빌트인 심벌값](JavaScript/Well-known Symbol.md)
 
 ### Typescript
 
