@@ -63,6 +63,8 @@
 - [Symbol.species](JavaScript/Symbol.species.md)
 - [빌트인 심벌값](JavaScript/Well-known Symbol.md)
 - [노드객체의 상속구조](JavaScript/노드객체의상속구조.md)
+- [CustomEvent](JavaScript/CustomEvent.md)
+
 ### Typescript
 
 - [제네릭](Typescript/generic.md)
