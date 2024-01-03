@@ -65,7 +65,7 @@
 - [노드객체의 상속구조](JavaScript/노드객체의상속구조.md)
 - [CustomEvent](JavaScript/CustomEvent.md)
 - [디바운스와 스로틀](JavaScript/debounce%26throttle.md)
-
+- [비동기함수에러처리](JavaScript/비동기함수에러처리.md)
 ### Typescript
 
 - [제네릭](Typescript/generic.md)
