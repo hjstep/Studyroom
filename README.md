@@ -1,7 +1,7 @@
 # TIL
 
 > Today I Learned !
-> <br/>매일매일 오늘 배운 내용을 기록합니다.
+> <br/>기록 저장소
 
 ---
 ### Categories
@@ -61,7 +61,7 @@
 - [추상 연산 OrdinaryObjectCreate](JavaScript/OrdinaryObjectCreate.md)
 - [BLOCK Lexical Environment](JavaScript/block-lexical-environment.md)
 - [Symbol.species](JavaScript/Symbol.species.md)
-- [빌트인 심벌값](JavaScript/Well-known Symbol.md)
+- [빌트인심벌값](JavaScript/Well-known Symbol.md)
 - [노드객체의 상속구조](JavaScript/노드객체의상속구조.md)
 - [CustomEvent](JavaScript/CustomEvent.md)
 - [디바운스와 스로틀](JavaScript/debounce%26throttle.md)
