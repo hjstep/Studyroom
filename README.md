@@ -74,6 +74,7 @@
 - [리액트 파이버](React/Fiber.md)
 - [useEffect](React/useEffect.md)
 - [useLayoutEffect](React/useLayoutEffect.md)
+- [Flux 패턴](React/Flux.md)
 ### Typescript
 
 - [제네릭](Typescript/generic.md)
