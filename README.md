@@ -75,6 +75,7 @@
 - [useEffect](React/useEffect.md)
 - [useLayoutEffect](React/useLayoutEffect.md)
 - [Flux 패턴](React/Flux.md)
+- [동시성 렌더링](React/concurrency-rendering.md)
 ### Typescript
 
 - [제네릭](Typescript/generic.md)
