@@ -78,6 +78,7 @@
 - [동시성 렌더링](React/concurrency-rendering.md)
 - [서버 컴포넌트](React/server-component.md)
 - [useInsertionEffect](React/useInsertionEffect.md)
+- [useTransition](React/useTransition.md)
 ### Typescript
 
 - [제네릭](Typescript/generic.md)
